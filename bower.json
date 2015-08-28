@@ -1,0 +1,22 @@
+{
+  "name": "johncarroll.io",
+  "version": "1.0.0",
+  "authors": [
+    "john@johncarroll.io"
+  ],
+  "description": "My personal website",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery-2": "jquery#~2.1.4",
+    "modernizr": "~2.8.3",
+    "picturefill": "~2.3.1"
+  },
+  "devDependencies": {
+    "picturefill": "~2.3.1"
+  }
+}
